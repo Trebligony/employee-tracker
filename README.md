@@ -10,3 +10,15 @@ Include a video of the typical user flow through your application. This includes
 
 
 A walkthrough video that demonstrates the functionality of the note taker app.
+
+
+
+# Screenshots
+
+
+<img src="./assets/images/screen_appview.png">
+
+
+<img src="./assets/images/note_screen.png">
+
+
