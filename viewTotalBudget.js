@@ -20,9 +20,7 @@ function viewTotalBudget(callback){
     inquirer
     .prompt(questions)
     .then(response=>{
-        db.query(`SELECT department.name as \'Department Name\', SUM(roles.salary) as \'Total Utilized Budget\' from roles 
-        INNER JOIN department ON roles.department_id = department.id
-        where department.id = ${response.dept_id}`, (err, result)=>{
+        db.query(`SELECT department.name as 'Department Name', COUNT(employee_table.id) AS 'Total No of Employees', SUM(roles.salary) as 'Total Utilized Budget' from ((employee_table INNER JOIN roles ON employee_table.role_id = roles.id) INNER JOIN department ON employee_table.role_id = department.id) WHERE roles.department_id =${response.dept_id}`, (err, result)=>{
             if (err) {
                 console.log(err);
             }
