@@ -1,4 +1,4 @@
-# ReadMe Employee Tracker App
+# Employee Tracker App
 
 The task is to create interfaces that allow non-developers to easily view and interact with information stored in databases. To build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
@@ -10,6 +10,27 @@ Include a video of the typical user flow through your application. This includes
 
 
 A walkthrough video that demonstrates the functionality of the employee tracker app.
+
+
+## Screenshots
+
+
+<img src="./Assets/images/add_dpt.png">
+
+
+<img src="./Assets/images/add_role.png">
+
+
+<img src="./Assets/images/dele_rcd.png">
+
+
+<img src="./Assets/images/upd_rcd.png">
+
+
+<img src="./Assets/images/view_dpt.png">
+
+
+
 
 
 
