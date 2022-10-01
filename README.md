@@ -13,45 +13,6 @@ A walkthrough video that demonstrates the functionality of the employee tracker 
 
 
 
-# Screenshots
-
- ### View Departments, Roles and Employees
-
-<img src="./assets/images/img_1.png">
-
-<img src="./assets/images/add_dpt.png">
-
-
-
-### Add Departments, Roles and Employees
-
-
-<img src="./assets/images/add_role.png">
-
-
-
-### Update/View Departments, Roles and Employees
-
-
-<img src="./assets/images/view_dpt.png">
-
-
-
-### Update Records
-
-
-<img src="./assets/images/upd_rcd.png">
-
-
-
-### Delete Department, Roles and Employees
-
-
-<img src="./assets/images/dele_rcd.png">
-
-
-
-
 ## User Story
 
 AS A business owner
