@@ -9,7 +9,7 @@ node index.js
 Include a video of the typical user flow through your application. This includes views of the prompts and the responses after their selection.
 
 
-A walkthrough video that demonstrates the functionality of the note taker app.
+A walkthrough video that demonstrates the functionality of the employee tracker app.
 
 
 
@@ -23,25 +23,25 @@ Screenhot --> View Departments, Roles and Employees
 
 Screenhot --> Add Departments, Roles and Employees
 
-<img src="./assets/img_4.png">
+<img src="./assets/images/img_4.png">
 
 
 
 Screenhot --> Update/View Departments, Roles and Employees
 
-<img src="./assets/img_5.png">
+<img src="./assets/images/img_5.png">
 
 
 
 Screenhot --> Update Records
 
-<img src="./assets/img_6.png">
+<img src="./assets/images/img_6.png">
 
 
 
 Screenhot --> Delete Department, Roles and Employees
 
-<img src="./assets/img_7.png">
+<img src="./assets/images/img_7.png">
 
 
 
