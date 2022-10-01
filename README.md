@@ -17,6 +17,7 @@ A walkthrough video that demonstrates the functionality of the employee tracker 
 
  ### View Departments, Roles and Employees
 
+<img src="./assets/images/img_1.png">
 
 <img src="./assets/images/add_dpt.png">
 
