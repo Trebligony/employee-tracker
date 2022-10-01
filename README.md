@@ -15,34 +15,38 @@ A walkthrough video that demonstrates the functionality of the employee tracker 
 
 # Screenshots
 
-Screenhot --> View Departments, Roles and Employees
-
-<img src="./assets/img_3.png">
+## --> View Departments, Roles and Employees
 
 
-
-Screenhot --> Add Departments, Roles and Employees
-
-<img src="./assets/images/img_4.png">
+<img src="./assets/images/add_dpt.png">
 
 
 
-Screenhot --> Update/View Departments, Roles and Employees
-
-<img src="./assets/images/img_5.png">
+##--> Add Departments, Roles and Employees
 
 
-
-Screenhot --> Update Records
-
-<img src="./assets/images/img_6.png">
+<img src="./assets/images/add_role.png">
 
 
 
-Screenhot --> Delete Department, Roles and Employees
+ ##--> Update/View Departments, Roles and Employees
 
-<img src="./assets/images/img_7.png">
 
+<img src="./assets/images/view_dpt.png">
+
+
+
+ ##--> Update Records
+
+
+<img src="./assets/images/upd_rcd.png">
+
+
+
+## --> Delete Department, Roles and Employees
+
+
+<img src="./assets/images/dele_rcd.png">
 
 
 
@@ -101,9 +105,10 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 
 
-# Link to walkthrough video
+# Link to walkthrough video (YouTube)
 
-https://drive.google.com/file/d/1pfGl-IhQt_BYk7EQ68WBQVWlrUMfF7ad/view
+
+https://youtu.be/qY7ie7yxSBs
 
 
 
