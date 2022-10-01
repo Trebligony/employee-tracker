@@ -17,7 +17,7 @@ A walkthrough video that demonstrates the functionality of the note taker app.
 
 Screenhot --> View Departments, Roles and Employees
 
-<img src="./assets/images/img_3.png">
+<img src="/assets/images/img_3.png">
 
 
 
