@@ -15,11 +15,35 @@ A walkthrough video that demonstrates the functionality of the note taker app.
 
 # Screenshots
 
+Screenhot --> View Departments, Roles and Employees
 
-<img src="./assets/images/screen_appview.png">
+<img src="./assets/images/img_3.png">
 
 
-<img src="./assets/images/note_screen.png">
+
+Screenhot --> Add Departments, Roles and Employees
+
+<img src="./assets/images/img_4.png">
+
+
+
+Screenhot --> Update/View Departments, Roles and Employees
+
+<img src="./assets/images/img_5.png">
+
+
+
+Screenhot --> Update Records
+
+<img src="./assets/images/img_6.png">
+
+
+
+Screenhot --> Delete Department, Roles and Employees
+
+<img src="./assets/images/img_7.png">
+
+
 
 
 
